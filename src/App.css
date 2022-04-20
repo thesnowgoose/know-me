@@ -3,8 +3,13 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+  margin-top: 5rem;
+}
+
+.App-link {
+  color: #61dafb;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,18 +19,42 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #481e81;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  padding-top: 5rem;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.title {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.initial-text {
+  max-width: 650px;
+  margin-bottom: 6rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.Play-button {
+  color: #282c34;
+  background-color: azure;
+  width: 10rem;
+  height: 3rem;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.Else-button {
+  height: 4rem;
 }
 
 @keyframes App-logo-spin {
