@@ -1,0 +1,221 @@
+{
+  "challenges": [
+    {
+      "text": "Pasa a bailar una canción que el publico elija",
+      "punishment": false,
+      "else": "Tienes que hablar con la F por los próximos 30 min"
+    },
+    {
+      "text": "Cantanos un cachito de una canción de tu elección",
+      "punishment": false,
+      "else": "Canta el Himno nacional"
+    },
+    {
+      "text": "Dale un shot a alguien que no te sepas su nombre y que te lo diga",
+      "punishment": false,
+      "else": "Tu te tomas el shot"
+    },
+    {
+      "text": "Yo nunca nunca... Beben los que lo hayan hecho",
+      "punishment": false,
+      "else": "Reto impuesto por el publico"
+    },
+    {
+      "text": "Shot al mas guap@",
+      "punishment": true,
+      "else": "10 lagartijas"
+    },
+    {
+      "text": "Dinos una comida que odies",
+      "punishment": false,
+      "else": "Sirve en el vaso comunitario"
+    },
+    {
+      "text": "Cuentanos un hobbie poco comun que tengas",
+      "punishment": true,
+      "else": "Saca a bailar a alguien"
+    },
+    {
+      "text": "Sacando los dientes... Cuenta una borrachera que hayas tenido",
+      "punishment": true,
+      "else": "Dura 1 minuto sin parpadiar"
+    },
+    {
+      "text": "Cual es tu cancion favorita, el publico juzgara tus gustos musicales",
+      "punishment": true,
+      "else": "Castigo random, presiona el botón."
+    },
+    {
+      "text": "Pasa al frente y has un brindis",
+      "punishment": false,
+      "else": "Que pases al frente y hagas un brindis"
+    },
+    {
+      "text": "Preguntale hobbies a 4 personas que no conozcas, bebes por cada hobbie que no compartas",
+      "punishment": false,
+      "else": "Preguntale hobbies a 4 personas que no conozcas, bebes por cada hobbie que SI compartas"
+    },
+    {
+      "text": "Lanza un volado, aguila bebes, sello bebe quien tu elijas",
+      "punishment": false,
+      "else": "Avientate un perreo bien intenso"
+    },
+    {
+      "text": "Ve hasta el piso de abajo, si tardas mas de 30 segundos bebes 1 shot",
+      "punishment": true,
+      "else": "Dura en posición sentadilla 1 minuto"
+    },
+    {
+      "text": "Presentate con 5 personas que no sepas su nombre, les preguntas su nombre... sin mostrar los dientes",
+      "punishment": false,
+      "else": "Muestra el historial de navegacion de tu cel"
+    },
+    {
+      "text": "Di 3 hobbies que tengas, si alguien mas de los presentes lo tiene, bebes",
+      "punishment": false,
+      "else": "Pon una papita en tu codo y cometela sin usar la otra mano"
+    },
+    {
+      "text": "Elige 4 personas para que junto contigo jueguen a la maquina de toques",
+      "punishment": true,
+      "else": "Shoooot"
+    },
+    {
+      "text": "Elige a una persona que no sepas su nombre, te lo dice y platican entre ustedes sobre su cliente, pero con acento chilango",
+      "punishment": true,
+      "else": "Dices un trabalenguas sin equibocarte"
+    },
+    {
+      "text": "Elige a alguien que no conozcas y juntos juegan manitas calientes. Bebe el que pierda",
+      "punishment": false,
+      "else": "Bailas como irlandes"
+    },
+    {
+      "text": "Tienes 15 segundos para encontrar quien se sabe los primeros 10 digitos de Pi",
+      "punishment": true,
+      "else": "Giras la pirinola"
+    },
+    {
+      "text": "Junta a los que no sepas su nombre, y juntos hagan el juego de la vivora de la mar",
+      "punishment": false,
+      "else": ""
+    },
+    {
+      "text": "Has una pregunta a alguien que no conozcas, debes adivinar si su respuesta es verdad o mentira. Si te equivocas... castigo",
+      "punishment": true,
+      "else": "Castigo random, presiona el botón."
+    },
+    {
+      "text": "Bebe el ultimo que grite Eeeeeeehhhhhhhh",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Muestra estre screenshot y te salvas de un castigo",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Sube una historia cantando una cancion que los demas elijan",
+      "punishment": true,
+      "else": "Sube una foto con el dedo en la nariz"
+    },
+    {
+      "text": "Traeles una cheve a los compañeres que ya no tengan en mano",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Tienes que poner cara muy feliz los proximos 3 turnos",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Cuentanos en que estas trabajando actualmente con acento de borracho",
+      "punishment": true,
+      "else": "Hablas como borracho las proximas 5 rondas"
+    },
+    {
+      "text": "Tienes que usar el baño mas lejano de la oficina",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Por 10 minutos tienes que saltar antes de beber",
+      "punishment": true,
+      "else": "Castigo random, presiona el botón."
+    },
+    {
+      "text": "Elige 3 compañer@s y avientense el mejor grito de mariachi que tengan",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Por 10 minutos hablas a gritos con los del sexo contrario",
+      "punishment": false,
+      "else": "Sirve en el vaso comunitario"
+    },
+    {
+      "text": "Bebes, junto con todos los zurdos presentes",
+      "punishment": false,
+      "else": "Los diestros beben"
+    },
+    {
+      "text": "Cuenta una historia tuya graciosa, si nadie rie bebes.",
+      "punishment": false,
+      "else": "Cuenta una historia tuya triste, si nadie llora bebes"
+    },
+    {
+      "text": "Suma tu edad con el de la derecha, si es par bebes, si es non bebe el otro",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Cuenta un chiste, bebe el que se ria. Si nadie se rie tú bebes",
+      "punishment": false,
+      "else": "Pasa al frente y finge ser un avion"
+    },
+    {
+      "text": "Los de areas de servicio beben",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Di tu stack al reves: Ex. Javascript -> tpircsavaj",
+      "punishment": true,
+      "else": false
+    },
+    {
+      "text": "Ve a los ojos a alguien, el que ria primero bebe",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Cuentanos de tu mascota, y has un brindis por ella",
+      "punishment": false,
+      "else": "Sirve en el vaso comunitario"
+    }
+
+  ],
+  "punishments": [
+    "Te tomas el vaso comunitario",
+    "Pasas a bailar solo",
+    "Pasas a cantar",
+    "10 lagartijas",
+    "No puedes beber en 15 min",
+    "Pasa al frente y no parpadees por un minuto",
+    "Pon una papita en tu codo y cometela sin usar la otra mano",
+    "Sirve en el vaso comunitario",
+    "Te tomas un vaso grande de agua a pecho",
+    "Sube una foto con el dedo en la nariz",
+    "Durante 10 segundos haces una sentadilla cada que el de tu izquierda beba",
+    "Los de areas de servicio beben",
+    "Los frontend beben",
+    "Los backend beben",
+    "Los mobile beben",
+    "Los QA beben",
+    "Tomate una foto con el stormtrooper y la subes en una historia",
+    "Baila como el joker"
+
+  ]
+}
