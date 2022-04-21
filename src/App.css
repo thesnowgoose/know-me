@@ -39,6 +39,15 @@
   margin-bottom: 6rem;
   margin-left: 1rem;
   margin-right: 1rem;
+  font-size: 35px;
+}
+
+.initial-text .line-through {
+  text-decoration: line-through;
+}
+
+.intro {
+  font-size: 24px;
 }
 
 .Play-button {

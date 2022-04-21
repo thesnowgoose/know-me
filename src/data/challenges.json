@@ -28,7 +28,7 @@
     {
       "text": "Dinos una comida que odies",
       "punishment": false,
-      "else": "Sirve en el vaso comunitario"
+      "else": "Sirve lo que quieras en el vaso"
     },
     {
       "text": "Cuentanos un hobbie poco comun que tengas",
@@ -153,7 +153,7 @@
     {
       "text": "Por 10 minutos hablas a gritos con los del sexo contrario",
       "punishment": false,
-      "else": "Sirve en el vaso comunitario"
+      "else": "Sirve lo que quieras en el vaso"
     },
     {
       "text": "Bebes, junto con todos los zurdos presentes",
@@ -193,19 +193,73 @@
     {
       "text": "Cuentanos de tu mascota, y has un brindis por ella",
       "punishment": false,
-      "else": "Sirve en el vaso comunitario"
+      "else": "Sirve lo que quieras en el vaso"
+    },
+    {
+      "text": "Tu compañer@ de la izquierda toma una pluma y te hace un tatuaje temporal",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "3 Compañeros llenan tu vaso con lo que quieran y bebes",
+      "punishment": false,
+      "else": "2 Compañeros llenan tu vaso con lo que quieran y bebes"
+    },
+    {
+      "text": "Di 3 nombres de satelites de otros planetas",
+      "punishment": true,
+      "else": "Di la capital de "
+    },
+    {
+      "text": "Alguien pasa y te pinta las uñas de una mano",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Has un 4 por 15 segundos",
+      "punishment": false,
+      "else": "Di la capital de "
+    },
+    {
+      "text": "Elige un compañero que no conozcas, hagan su firma con la mano no dominante, el publico elige al perdedor y tendra que beber",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Con un compañer@ jueguen disparejo 3 veces, ambos beben si salen diferente",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Platicanos la mejor receta de comida que te quede, e invitanos a comer xP",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Canta y baila la Macarena en ingles",
+      "punishment": false,
+      "else": false
+    },
+    {
+      "text": "Di la capital de...",
+      "punishment": true,
+      "else": "Castigo random, presiona el botón."
+    },
+    {
+      "text": "Cuenta un momento agradable que has pasado en la oficina",
+      "punishment": false,
+      "else": false
     }
-
   ],
   "punishments": [
-    "Te tomas el vaso comunitario",
+    "Te tomas el vaso con lo que hayan servido",
     "Pasas a bailar solo",
     "Pasas a cantar",
     "10 lagartijas",
     "No puedes beber en 15 min",
     "Pasa al frente y no parpadees por un minuto",
     "Pon una papita en tu codo y cometela sin usar la otra mano",
-    "Sirve en el vaso comunitario",
+    "Sirve lo que quieras en el vaso",
     "Te tomas un vaso grande de agua a pecho",
     "Sube una foto con el dedo en la nariz",
     "Durante 10 segundos haces una sentadilla cada que el de tu izquierda beba",
@@ -215,7 +269,19 @@
     "Los mobile beben",
     "Los QA beben",
     "Tomate una foto con el stormtrooper y la subes en una historia",
-    "Baila como el joker"
-
+    "Baila como el joker",
+    "Te tomas lo que te queda en mano",
+    "Pide una cheve imitando a El Padrino",
+    "Carga a Edwin",
+    "Baila como egipcio",
+    "Elige un compañer@ que no conozcas y hagan un duelo de pistolas con las Nerf",
+    "Has una mirada de super modelo",
+    "El ultimo que se toque las rodillas, bebe",
+    "Di un dialogo de una peli que te guste, si no adivinan cual es, bebes",
+    "Cual es tu caricatura favorita de niñ@?",
+    "Imita a un pokemon",
+    "Cuentanos de que se trato el All Hands con acento chilango",
+    "Canta una cancion que no sea español ni ingles",
+    "Has lip-sync con I will always love you"
   ]
 }

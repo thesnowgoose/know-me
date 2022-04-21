@@ -24,7 +24,7 @@ export function Play({ goBack }) {
       <div>
         {showElse ? (
           <>
-            <p>
+            <p className='initial-text'>
               <strong>Reto de consolación:</strong><br />
               {selected.else}
             </p>
@@ -61,7 +61,7 @@ const Punishment = () => {
 
   return (
     <>
-      {showPunishment ? (<p>{punishments[n]}</p>) : (
+      {showPunishment ? (<p className='initial-text'>{punishments[n]}</p>) : (
         <button className="Play-button Else-button" 
           onClick={() => setShoePunishment(true)}
           style={{ marginTop: '3rem' }}>
