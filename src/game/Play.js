@@ -20,13 +20,19 @@ export function Play({ goBack }) {
       <div style={{ marginLeft: '2rem', marginBottom: '3rem', alignSelf: 'flex-start' }}>
         <a class="App-link" onClick={goBack}>{`<- regresar`}</a>
       </div>
-      {!showElse && <p className='initial-text'>{selected.text}</p>}
+      {!showElse && (
+        <>
+          <p className='initial-text'>{selected.text}</p>
+          {selected.country === "text" && <span className='initial-text'>{randomCountry()}</span>}
+        </>
+      )}
       <div>
         {showElse ? (
           <>
             <p className='initial-text'>
-              <strong>Reto de consolación:</strong><br />
+              <div className='title'>Reto de consolación:</div>
               {selected.else}
+              {selected.country === "else" && <span className='initial-text'>{randomCountry()}</span>}
             </p>
             {selected.punishment && <Punishment />}
           </>
@@ -70,4 +76,12 @@ const Punishment = () => {
       )}
     </>
   )
+}
+
+const randomCountry = () => {
+  const { countries } = data;
+  const max = countries.length;
+  const n = Math.floor(Math.random() * max)
+
+  return countries[n];
 }

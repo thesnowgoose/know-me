@@ -3,7 +3,7 @@
     {
       "text": "Pasa a bailar una canción que el publico elija",
       "punishment": false,
-      "else": "Tienes que hablar con la F por los próximos 30 min"
+      "else": "Tienes que hablar con la F por los próximos 10 min"
     },
     {
       "text": "Cantanos un cachito de una canción de tu elección",
@@ -16,7 +16,7 @@
       "else": "Tu te tomas el shot"
     },
     {
-      "text": "Yo nunca nunca... Beben los que lo hayan hecho",
+      "text": "Yo nunca nunca... y Beben los que lo hayan hecho",
       "punishment": false,
       "else": "Reto impuesto por el publico"
     },
@@ -48,7 +48,7 @@
     {
       "text": "Pasa al frente y has un brindis",
       "punishment": false,
-      "else": "Que pases al frente y hagas un brindis"
+      "else": "Que pases al frente y hagas un brindis maldita sea"
     },
     {
       "text": "Preguntale hobbies a 4 personas que no conozcas, bebes por cada hobbie que no compartas",
@@ -73,7 +73,7 @@
     {
       "text": "Di 3 hobbies que tengas, si alguien mas de los presentes lo tiene, bebes",
       "punishment": false,
-      "else": "Pon una papita en tu codo y cometela sin usar la otra mano"
+      "else": "Pon una papita en tu codo y cometela sin usar la otra mano. Si la tiras bebes"
     },
     {
       "text": "Elige 4 personas para que junto contigo jueguen a la maquina de toques",
@@ -91,14 +91,14 @@
       "else": "Bailas como irlandes"
     },
     {
-      "text": "Tienes 15 segundos para encontrar quien se sabe los primeros 10 digitos de Pi",
+      "text": "Tienes 15 segundos para encontrar quien se sabe los primeros 10 digitos de Pi. Esta persona tendra que darle un shot a alguien",
       "punishment": true,
       "else": "Giras la pirinola"
     },
     {
       "text": "Junta a los que no sepas su nombre, y juntos hagan el juego de la vivora de la mar",
-      "punishment": false,
-      "else": ""
+      "punishment": true,
+      "else": "Lee esto sin equivocarte... Como poco coco como, poco coco compro. Como compro poco coco poco coco como"
     },
     {
       "text": "Has una pregunta a alguien que no conozcas, debes adivinar si su respuesta es verdad o mentira. Si te equivocas... castigo",
@@ -111,7 +111,7 @@
       "else": false
     },
     {
-      "text": "Muestra estre screenshot y te salvas de un castigo",
+      "text": "Muestra este screenshot y te salvas de un castigo",
       "punishment": false,
       "else": false
     },
@@ -208,7 +208,8 @@
     {
       "text": "Di 3 nombres de satelites de otros planetas",
       "punishment": true,
-      "else": "Di la capital de "
+      "else": "Di la capital de...",
+      "country": "else"
     },
     {
       "text": "Alguien pasa y te pinta las uñas de una mano",
@@ -218,10 +219,11 @@
     {
       "text": "Has un 4 por 15 segundos",
       "punishment": false,
-      "else": "Di la capital de "
+      "else": "Di la capital de...",
+      "country": "else"
     },
     {
-      "text": "Elige un compañero que no conozcas, hagan su firma con la mano no dominante, el publico elige al perdedor y tendra que beber",
+      "text": "Elige un compañero que no conozcas, hagan su firma con la mano NO dominante, el publico elige al perdedor y tendra que beber",
       "punishment": false,
       "else": false
     },
@@ -243,7 +245,8 @@
     {
       "text": "Di la capital de...",
       "punishment": true,
-      "else": "Castigo random, presiona el botón."
+      "else": "Castigo random, presiona el botón.",
+      "country": "text"
     },
     {
       "text": "Cuenta un momento agradable que has pasado en la oficina",
@@ -258,7 +261,7 @@
     "10 lagartijas",
     "No puedes beber en 15 min",
     "Pasa al frente y no parpadees por un minuto",
-    "Pon una papita en tu codo y cometela sin usar la otra mano",
+    "Pon una papita en tu codo y cometela sin usar la otra mano. Si la tiras bebes",
     "Sirve lo que quieras en el vaso",
     "Te tomas un vaso grande de agua a pecho",
     "Sube una foto con el dedo en la nariz",
@@ -282,6 +285,18 @@
     "Imita a un pokemon",
     "Cuentanos de que se trato el All Hands con acento chilango",
     "Canta una cancion que no sea español ni ingles",
-    "Has lip-sync con I will always love you"
+    "Has lip-sync con I will always love you",
+    "Lee esto sin equivocarte... Como poco coco como, poco coco compro. Como compro poco coco poco coco como"
+  ],
+  "countries": [
+    "Madagascar",
+    "Bosnia y Herzegovina",
+    "Belice",
+    "Egipto",
+    "Portugal",
+    "Paraguay",
+    "Canada",
+    "Ucrania",
+    "Islandia"
   ]
 }
